@@ -1,0 +1,6 @@
+customhost = "admin1.cemykxml9xwk.us-west-2.rds.amazonaws.com"
+customuser = "ecom123"
+custompass = "ecom$1234"
+customdb = "employee"
+custombucket = "addstudentt"
+customregion = "us-west-2"
